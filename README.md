@@ -18,7 +18,7 @@
 ## 🎥 Demo Preview
 
 <p align="center">
-  <video src="assets\auto_ml.mp4" width="100%" controls autoplay loop></video>
+  <video src="https://github.com/user-attachments/assets/dce2cf57-732c-4a64-9570-0266ac05a3bb" width="100%" controls autoplay loop></video>
 </p>
 
 ---
