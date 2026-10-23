@@ -1,0 +1,22 @@
+# 1. Python Bytecode & Cache (Python temporary files)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 2. Virtual Environment (Virtual environments)
+.venv/
+env/
+venv/
+
+# 3. MLflow & Local Databases (MLflow local database and logs)
+mlflow.db
+mlruns/
+*.db
+*.sqlite
+
+# 4. IDE & Editor Settings (IDE and editor configurations)
+.vscode/
+.streamlit/
+
+# 5. Model Artifacts (Locally trained models in pkl format)
+models/*.pkl
